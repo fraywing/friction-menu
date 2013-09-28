@@ -11,6 +11,11 @@ Just what the doctor ordered, a friction menu for Angular. You heard me.
 use like:
 ```<div friction-menu friction-menu-opts={"watch" : ["/posts/","/coolPlace/"], "showWhenScrolledTo" : "300px"}></div>```
 
+1. Import **frictionMenu** into your main app module
+2. Create the friction-menu-opts or frictionMenuOpts object (shown above)
+3. Throw some options in there (shown below)
+4. Cry a little, and marvel
+
 **Options:**
 <watch> **ARRAY** paths to match when to show the menu.  i,e watch : ["/posts/"]
 <defaultVisible> **BOOLEAN** Whether or no to show of collapse the friction menu on load
