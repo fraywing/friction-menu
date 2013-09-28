@@ -3,6 +3,7 @@ friction-menu
 
 Bring a trendy Angular.js friction menu to your page!
 
+###social-linker v0.0.1
 
 Just what the doctor ordered, a friction menu for Angular. You heard me.
 
